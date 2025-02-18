@@ -141,3 +141,10 @@ INSERT INTO tblnotas (codaluno, codcurso, nota, bimestre, observacao) VALUES
 (15, 2, 8.0, 1, 'Boa leitura'),
 (15, 3, 7.5, 1, 'Bom desempenho em ciências'),
 (15, 4, 8.0, 1, 'Bom conhecimento histórico');
+
+select * from tblprofessor
+select * from tblcursos
+select * from tblnotas
+select * from tblalunos
+
+
